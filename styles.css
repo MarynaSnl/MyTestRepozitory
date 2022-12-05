@@ -118,7 +118,7 @@ li > a {
 /* welcome section*/
 
 #welcome-section, #viewport{
-  font-size: min(30vw, 2.3em);
+  font-size: min(30vw, 2.0em);
   text-align: center;
   align-items: center;
   color: var(--color_white2);
